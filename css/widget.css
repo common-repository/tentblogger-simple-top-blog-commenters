@@ -1,0 +1,6 @@
+.tentblogger-top-commenters { border: 1px solid #aaa; background: #fefefe; font-family: Arial, Sans-serif; font-size: 12px; padding: 10px; border-radius: 2px; }
+.tentblogger-top-commenters h3,
+.tentblogger-top-commenters li { border-top: 0 !important; }
+.tentblogger-top-commenters img { margin-right: 5px;  }
+.tentblogger-top-commenters a { text-decoration: none;  }
+.tentblogger-top-commenters a:hover { color: #ddd; text-decoration:none !important;  }

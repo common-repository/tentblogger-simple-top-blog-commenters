@@ -1,0 +1,6 @@
+.tentblogger-top-commenters-widget-wrapper {}
+.tentblogger-top-commenters-widget-wrapper fieldset { border: 1px solid #efefef; padding: 1em; }
+.tentblogger-top-commenters-widget-wrapper input[type=text],
+.tentblogger-top-commenters-widget-wrapper select { margin-bottom: 1em; width: 100%; }
+.tentblogger-top-commenters-widget-wrapper legend { font-weight: bold;  }
+.tentblogger-top-commenters-widget-wrapper .block { display: block; }	
